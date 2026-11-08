@@ -37,8 +37,3 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
-
-<a href="http://www.github.com/Esra-Turk">
-  <img src="https://github-readme-stats.vercel.app/api/?username=Esra-Turk&show_icons=true&hide=contribs,issues&title_color=ff6347&icon_color=ff6347&text_color=ffffff&bg_color=282c34&border_color=ff6347&border_radius=12&hide_title=false&layout=compact" width="460"/>
-</a>
-
