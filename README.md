@@ -24,9 +24,6 @@
   <a href="https://medium.com/@esraturk" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/medium.svg" alt="Medium" width="40"/>
   </a>
-  <a href="https://www.instagram.com/_esraturk2" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40"/>
-  </a>
 </p>
 
 
